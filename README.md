@@ -1,0 +1,1 @@
+This repo consists of all the ML algorthsm I implemented. It is a showcase of my learning stage and a reminder of how it all began.
